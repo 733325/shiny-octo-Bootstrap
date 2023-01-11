@@ -1,1 +1,15 @@
 
+p{
+    color:green;
+}
+body{
+    background-color:#EFEFEF;
+    color:green;
+}
+footer{
+    fixed:bottom;
+}
+#white{
+    color:white;
+    fs-6
+}
